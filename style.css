@@ -1,20 +1,19 @@
-
-.quadrado{
-    border: 2px solid black;
-    width: 100px;
-    border-radius: 10px;
-    height: 100px;
-    display: inline-block
+.quadrado {
+  border: 2px solid black;
+  width: 100px;
+  border-radius: 10px;
+  height: 100px;
+  display: inline-block;
 }
 
-#q1{
-    background-image: linear-gradient(to left, yellow, red);
+#q1 {
+  background-image: linear-gradient(to left, yellow, red);
 }
 
-#q2{
-    background-image: url('img/pattern003.png');
+#q2 {
+  background-image: url("img/pattern003.png");
 }
 
-#q3{
-    background-color: red;
+#q3 {
+  background-color: red;
 }
