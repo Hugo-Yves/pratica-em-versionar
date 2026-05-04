@@ -1,8 +1,8 @@
 
 .quadrado{
-    background-color: skyblue;
     border: 2px solid black;
     width: 100px;
+    border-radius: 10px;
     height: 100px;
     display: inline-block
 }
