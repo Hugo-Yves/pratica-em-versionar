@@ -1,7 +1,23 @@
-.bloco{
-    background-image: url("../img/wallpaper002.jpg");
-    height: 190px;
-    border: 2px solid black;
-    border-radius: 10px;
-    margin: 10px;
+.bloco {
+  background-image: url("../img/wallpaper002.jpg");
+  height: 190px;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+#q1 {
+  background-position: left top;
+}
+
+#q2 {
+  background-position: left center;
+}
+
+#q3 {
+  background-position: right bottom;
+}
+
+#q4 {
+  background-position: center center;
 }
